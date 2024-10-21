@@ -11,7 +11,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-      },
+      }, fontFamily: {
+        creepster: ['var(--font-creepster)'],}
     },
   },
   plugins: [],
